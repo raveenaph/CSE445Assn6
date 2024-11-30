@@ -1,97 +1,103 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\",
+  "WorkspaceRootPath": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|c:\\users\\salil\\onedrive\\documents\\raveena\\cse445assn6\\assignment5webapp\\account\\member.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\member.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\member.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\account\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{952BF56B-B79A-4EA4-B911-C8062D8C4407}|..\\Assignment5RESTServices\\Assignment5RESTServices.csproj|e:\\documents\\cse445assn6\\assignment5restservices\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|c:\\users\\salil\\onedrive\\documents\\raveena\\cse445assn6\\assignment5webapp\\account\\memberlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\imageverifier.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:imageverifier.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\imageverifier.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:imageverifier.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\staffloginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:staffloginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\staffloginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:staffloginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\protected\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:protected\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\account\\memberlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\app_data\\staff.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:app_data\\staff.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\dlltryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:dlltryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\app_data\\members.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:app_data\\members.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\protected\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:protected\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistrationconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistrationconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberregistrationconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{952BF56B-B79A-4EA4-B911-C8062D8C4407}|..\\Assignment5RESTServices\\Assignment5RESTServices.csproj|e:\\documents\\cse445assn6\\assignment5restservices\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|e:\\documents\\cse445assn6\\assignment5webapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\memberlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\imageverifier.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:imageverifier.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\imageverifier.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:imageverifier.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberregistration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\staffloginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:staffloginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\staffloginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:staffloginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\protected\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:protected\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\memberlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\app_data\\staff.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:app_data\\staff.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\dlltryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:dlltryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\app_data\\members.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:app_data\\members.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\protected\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:protected\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberregistration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistrationconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\account\\memberregistrationconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:account\\memberregistrationconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\imageverifiertryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\imageverifiertryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:imageverifiertryit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\imageverifiertryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\imageverifiertryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{4DBAD03A-3BA5-4A54-9E46-EC5F67CFD270}|Assignment5WebApp.csproj|solutionrelative:imageverifiertryit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -102,54 +108,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5RESTServices\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "..\\Assignment5RESTServices\\Service1.svc.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5RESTServices\\Service1.svc.cs",
+              "RelativeToolTip": "..\\Assignment5RESTServices\\Service1.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:10:03.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5RESTServices\\IService1.cs",
+              "RelativeDocumentMoniker": "..\\Assignment5RESTServices\\IService1.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5RESTServices\\IService1.cs",
+              "RelativeToolTip": "..\\Assignment5RESTServices\\IService1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:09:21.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:38:00.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Member.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx.cs",
               "RelativeDocumentMoniker": "Account\\Member.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx.cs",
               "RelativeToolTip": "Account\\Member.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAtwJwAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T23:48:12.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MemberLogin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx.cs",
               "RelativeDocumentMoniker": "Account\\MemberLogin.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx.cs",
               "RelativeToolTip": "Account\\MemberLogin.aspx.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwD0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T00:32:33.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
               "RelativeDocumentMoniker": "Protected\\Web.config",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
               "RelativeToolTip": "Protected\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-27T23:27:56.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Default.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Default.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Default.aspx",
               "RelativeToolTip": "Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -158,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "staffLoginPage.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx",
               "RelativeDocumentMoniker": "staffLoginPage.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx",
               "RelativeToolTip": "staffLoginPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -171,50 +226,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "staffLoginPage.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx.cs",
               "RelativeDocumentMoniker": "staffLoginPage.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\staffLoginPage.aspx.cs",
               "RelativeToolTip": "staffLoginPage.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T18:52:45.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Member.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx",
               "RelativeDocumentMoniker": "Account\\Member.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\Member.aspx",
               "RelativeToolTip": "Account\\Member.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-11-27T16:19:27.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "Default.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Default.aspx.cs",
-              "RelativeToolTip": "Default.aspx.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T23:38:00.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MemberRegistration.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx",
               "RelativeDocumentMoniker": "Account\\MemberRegistration.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx",
               "RelativeToolTip": "Account\\MemberRegistration.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -223,50 +264,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Web.config",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Web.config",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Web.config",
               "RelativeToolTip": "Web.config",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-27T18:38:17.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Global.asax.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Global.asax.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Global.asax.cs",
               "RelativeToolTip": "Global.asax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T21:27:35.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ImageVerifier.ascx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx.cs",
               "RelativeDocumentMoniker": "ImageVerifier.ascx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx.cs",
               "RelativeToolTip": "ImageVerifier.ascx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T02:50:31.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ImageVerifier.ascx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx",
               "RelativeDocumentMoniker": "ImageVerifier.ascx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifier.ascx",
               "RelativeToolTip": "ImageVerifier.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
@@ -275,11 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "MemberLogin.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx",
               "RelativeDocumentMoniker": "Account\\MemberLogin.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberLogin.aspx",
               "RelativeToolTip": "Account\\MemberLogin.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -288,50 +326,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
               "RelativeDocumentMoniker": "Protected\\Web.config",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Protected\\Web.config",
               "RelativeToolTip": "Protected\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-27T23:16:47.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Members.xml",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\app_data\\Members.xml",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\app_data\\Members.xml",
               "RelativeDocumentMoniker": "app_data\\Members.xml",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\app_data\\Members.xml",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\app_data\\Members.xml",
               "RelativeToolTip": "app_data\\Members.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2024-11-27T23:19:16.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Staff.xml",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\app_data\\Staff.xml",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\app_data\\Staff.xml",
               "RelativeDocumentMoniker": "app_data\\Staff.xml",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\app_data\\Staff.xml",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\app_data\\Staff.xml",
               "RelativeToolTip": "app_data\\Staff.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2024-11-27T23:19:28.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DllTryIt.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\DllTryIt.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\DllTryIt.aspx",
               "RelativeDocumentMoniker": "DllTryIt.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\DllTryIt.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\DllTryIt.aspx",
               "RelativeToolTip": "DllTryIt.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -340,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
               "Title": "MemberRegistrationConfirmation.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx",
               "RelativeDocumentMoniker": "Account\\MemberRegistrationConfirmation.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx",
               "RelativeToolTip": "Account\\MemberRegistrationConfirmation.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -353,37 +388,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "MemberRegistration.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx.cs",
               "RelativeDocumentMoniker": "Account\\MemberRegistration.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistration.aspx.cs",
               "RelativeToolTip": "Account\\MemberRegistration.aspx.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowFwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T16:15:31.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "MemberRegistrationConfirmation.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx.cs",
               "RelativeDocumentMoniker": "Account\\MemberRegistrationConfirmation.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\Account\\MemberRegistrationConfirmation.aspx.cs",
               "RelativeToolTip": "Account\\MemberRegistrationConfirmation.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T16:17:49.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ImageVerifierTryIt.aspx",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx",
               "RelativeDocumentMoniker": "ImageVerifierTryIt.aspx",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx",
               "RelativeToolTip": "ImageVerifierTryIt.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -392,13 +425,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ImageVerifierTryIt.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx.cs",
+              "DocumentMoniker": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx.cs",
               "RelativeDocumentMoniker": "ImageVerifierTryIt.aspx.cs",
-              "ToolTip": "C:\\Users\\salil\\OneDrive\\Documents\\Raveena\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx.cs",
+              "ToolTip": "E:\\Documents\\CSE445Assn6\\Assignment5WebApp\\ImageVerifierTryIt.aspx.cs",
               "RelativeToolTip": "ImageVerifierTryIt.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T02:54:06.372Z",
               "EditorCaption": ""
