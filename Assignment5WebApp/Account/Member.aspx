@@ -101,6 +101,51 @@
             <asp:Label ID="resultLbl" runat="server" Text=""></asp:Label>
         </div>
 
+
+          <div>
+          <h2>House Price Estimator</h2>
+          <p>Enter the details below to estimate your house price:</p>
+          <table>
+              <tr>
+                  <td>Address:</td>
+                  <td><asp:TextBox ID="txtAddress" runat="server" Width="300px" OnTextChanged="txtAddress_TextChanged" /></td>
+              </tr>
+              <tr>
+                  <td>Property Type:</td>
+                  <td>
+                      <asp:RadioButtonList ID="rblPropertyType" runat="server">
+                          <asp:ListItem Text="Single Family" Value="Single Family" Selected="True" />
+                          <asp:ListItem Text="Condo" Value="Condo" />
+                          <asp:ListItem Text="Townhouse" Value="Townhouse" />
+                          <asp:ListItem Text="Apartment" Value="Apartment" />
+                      </asp:RadioButtonList>
+                  </td>
+              </tr>
+              <tr>
+                  <td>Bedrooms:</td>
+                  <td><asp:TextBox ID="txtBedrooms" runat="server" Width="100px" /></td>
+              </tr>
+              <tr>
+                  <td>Bathrooms:</td>
+                  <td><asp:TextBox ID="txtBathrooms" runat="server" Width="100px" /></td>
+              </tr>
+              <tr>
+                  <td>Square Footage:</td>
+                  <td><asp:TextBox ID="txtSquareFootage" runat="server" Width="150px" /></td>
+              </tr>
+              <tr>
+                  <td>Comparable Count:</td>
+                  <td><asp:TextBox ID="txtCompCount" runat="server" Width="100px" /></td>
+              </tr>
+              <tr>
+                  <td colspan="2" style="text-align:center">
+                      <asp:Button ID="btnCalculate" runat="server" Text="Calculate Price" OnClick="btnCalculate_Click" />
+                  </td>
+              </tr>
+          </table>
+          <h3>Estimated Price:</h3>
+          <asp:Label ID="lblEstimatedPrice" runat="server" Text="Enter details and click 'Calculate Price'." />
+      </div>
     </form>
 
 
